@@ -1,7 +1,7 @@
 {
   "name": "soledeRedirectForm",
   "version": "1.0.0",
-  "description": "Redirige traffico ai siti solede sulla base del forma di contatto",
+  "description": "Redirige traffico sulla base del parametro url_redirect",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
