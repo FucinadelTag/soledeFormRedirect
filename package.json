@@ -1,0 +1,14 @@
+{
+  "name": "soledeRedirectForm",
+  "version": "1.0.0",
+  "description": "Redirige traffico ai siti solede sulla base del forma di contatto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "claudia-api-builder": "^3.0.1"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "soledeRedirectForm-executor",
+    "name": "soledeRedirectForm",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "oenwoakouk",
+    "module": "app"
+  }
+}
